@@ -1,7 +1,7 @@
 # chartz
 
 
-##How to use
+## How to use
 
 1. Clone or download the zip of this repo (https://github.com/Milanzor/chartz/archive/master.zip)
 2. Create `public/chartoptions.js` (check `public/demo.chartoptions.js` for an example)
