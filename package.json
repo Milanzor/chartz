@@ -1,0 +1,9 @@
+{
+  "name": "chartz",
+  "version": "1.0.0",
+  "description": "Chart app",
+  "main": "index.js",
+  "repository": "https://github.com/Milanzor/chartz.git",
+  "author": "Milan van As",
+  "license": "MIT"
+}
